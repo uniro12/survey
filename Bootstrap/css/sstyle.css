@@ -8,3 +8,7 @@ body {
 .query {
     font-weight: 700;
 }
+.form-check-input:hover {
+    transform: scale(1.2);
+	transition: .6s;
+}
