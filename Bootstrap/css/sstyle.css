@@ -1,12 +1,13 @@
-body {
-    background-color: red;
-}
+
 .card1 {
     background-color: rgb(223, 204, 176);
     min-height: 100%;
 }
 .query {
     font-weight: 700;
+}
+.form-check-label, .form-check-input{
+    cursor: pointer;
 }
 .form-check-input:hover {
     transform: scale(1.2);
